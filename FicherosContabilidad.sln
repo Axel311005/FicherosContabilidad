@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltoBajo", "AltoBajo\AltoBajo.csproj", "{A8E1700D-BFD0-4F8A-9B3E-EC6081C7928D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8E1700D-BFD0-4F8A-9B3E-EC6081C7928D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E1700D-BFD0-4F8A-9B3E-EC6081C7928D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E1700D-BFD0-4F8A-9B3E-EC6081C7928D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E1700D-BFD0-4F8A-9B3E-EC6081C7928D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3270C5AC-8C3A-403F-B254-E262427A14CF}
+	EndGlobalSection
+EndGlobal
