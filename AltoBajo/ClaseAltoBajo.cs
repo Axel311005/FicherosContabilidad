@@ -42,5 +42,12 @@ namespace AltoBajo
             return cf;
         }
 
+        public double costosVariables()
+        {
+            double cv;
+            cv = Total() - costosFijoss();
+            return cv;
+        }
+
     }
 }

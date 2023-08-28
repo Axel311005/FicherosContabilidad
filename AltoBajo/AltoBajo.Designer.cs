@@ -134,6 +134,7 @@
             btnCalcular.TabIndex = 7;
             btnCalcular.Text = "CALCULAR";
             btnCalcular.UseVisualStyleBackColor = true;
+            btnCalcular.Click += btnCalcular_Click;
             // 
             // label4
             // 
